@@ -1,6 +1,6 @@
 # genbank_to_protein
-convert genbank to protein
+A python program to create corresponding DNA, RNA, and protein FASTA formatted files from a given genbank file.
 
-# genbank_to_protein
+# usage 
 python genbank_to_protein.py <genbank_file_name>
 
