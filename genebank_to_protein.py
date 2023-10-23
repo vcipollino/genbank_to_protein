@@ -7,7 +7,6 @@ import sys
 #input_file = 'corona_virus_genbank'
 input_file = sys.argv[1]
 output_DNA = input_file + '.DNA'
-print(output_DNA)
 output_RNA = input_file + '.RNA'
 output_protein = input_file + '.protein'
 output_correct_translation = input_file + '.correct_translation'
